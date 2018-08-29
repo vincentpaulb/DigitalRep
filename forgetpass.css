@@ -1,0 +1,41 @@
+#usclogo
+{
+	width: 55%;
+}
+
+#digitrepo
+{
+    width: 100%;
+    height: 350px;
+}
+	
+input[type=text], input[type=password], input[type=email] 
+{
+	padding: 6px;
+	border: none;
+	background: #f1f1f1;
+	font-family: Century; 
+	width: 100%;
+}
+
+#form2
+{
+	background: url('background.jpg'); 
+	width: 100%; 
+	border-style: groove; 
+	padding: 15px 15px 20px 15px; 
+	border-radius: 10px
+}
+
+#button1
+{
+	border-style: groove;
+	padding: 3px 6px 4px 6px; 
+	border-radius: 10px
+}
+
+#a1
+{
+	font-family: Century;
+	font-size: 15px
+}
